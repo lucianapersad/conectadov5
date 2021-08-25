@@ -1013,7 +1013,10 @@
     "mobileInstruction": "",
     "_hidePagination": true,
     "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
     "_useGraphicsAsPins": false,
+    "_isRound": false,
     "_items": [
       {
         "title": "¿Cuál es su objetivo?",
@@ -1031,7 +1034,7 @@
           "alt": ""
         },
         "_classes": "",
-        "_left": 22,
+        "_left": 8,
         "_top": 9
       },
       {
@@ -1050,7 +1053,7 @@
           "alt": ""
         },
         "_classes": "",
-        "_left": 22,
+        "_left": 8,
         "_top": 30
       },
       {
@@ -1069,7 +1072,7 @@
           "alt": ""
         },
         "_classes": "",
-        "_left": 22,
+        "_left": 8,
         "_top": 54
       },
       {
@@ -1088,7 +1091,7 @@
           "alt": ""
         },
         "_classes": "",
-        "_left": 36,
+        "_left": 25,
         "_top": 9
       },
       {
@@ -1107,7 +1110,7 @@
           "alt": ""
         },
         "_classes": "",
-        "_left": 36,
+        "_left": 25,
         "_top": 30
       }
     ]
